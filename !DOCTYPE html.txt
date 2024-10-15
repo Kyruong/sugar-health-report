@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Nutrition Report - KIN 160 AB1</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+            background-color: #f4f4f4;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        ul {
+            margin-top: 10px;
+        }
+        footer {
+            margin-top: 20px;
+            text-align: center;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>NUTRITION REPORT</h1>
+    <h2>Authors: Ky Truong, Zach Lausch, Jasneet Brar</h2>
+    <h2>KIN 160 AB1</h2>
+    <h2>Assignment 5: Nutrition</h2>
+    <h2>October 13th, 2024</h2>
+
+    <h3>Introduction</h3>
+    <p>Jasneet</p>
+    <p>Sugar is a carbohydrate that provides energy for the body, naturally found in foods like fruits and dairy, but also added to processed foods for sweetness. It has become a pressing public health concern for many people today. This trend is closely linked to an increase in chronic conditions such as obesity and heart disease. Among the various forms of sugar, fructose stands out as particularly risky, potentially causing more harm than dietary fats. People can benefit from following dietary guidelines like the Canada Food Guide, which talks about whole foods, complex carbohydrates, plant-based proteins, and healthy fats. By adopting these recommendations, they can reduce their sugar intake and lower the risk of developing serious health issues.</p>
+
+    <h3>Sugar Consumption (Canadian Food Guide)</h3>
+    <p>Jasneet</p>
+    <p>The Canada Food Guide advocates for a well-rounded diet that includes fruits, vegetables, whole grains, and plant-based proteins while discouraging the consumption of processed foods and added sugars, in line with current nutritional research. Its focus on complex carbohydrates, plant-based proteins, and healthy fats helps maintain blood sugar levels, supports digestive health, and lowers the risk of heart disease and cancer. While recent findings highlight the potential benefits of low-carb diets and ketosis for conditions like type 2 diabetes, the Guide’s balanced approach helps prevent nutrient deficiencies and health risks linked to restrictive diets. Though low-carb or ketogenic diets can be effective for some individuals, the Canada Food Guide remains a reliable source of sustainable and diverse dietary advice for the majority.</p>
+    <p>The decreased emphasis on dairy products, like milk and cheese, faced criticism from the dairy industry, who claimed that these foods are essential sources of calcium and vitamin D. Opponents expressed concern that encouraging plant-based proteins could downplay the nutritional advantages of dairy. Some people worried that recommending fresh produce and whole grains could make healthy eating more expensive, especially for low-income families and those living in remote areas where fresh food is harder to find. This is a particularly big issue in northern communities in Canada. Some felt that the emphasis on plant-based proteins downplayed the importance of traditional animal farming. Critics, including those from the meat industry and some nutritionists, argued that animal products offer essential nutrients that can be challenging to obtain solely from plant-based foods. Even though the guide tried to be flexible, not having specific serving sizes and detailed recommendations made it tough for places like schools and hospitals, which really rely on clear guidelines to do things right.</p>
+
+    <h3>Carbohydrates in a Healthy Diet</h3>
+    <p>Ky</p>
+    <p>Despite sugars being a type of carbohydrate, it is important for us to understand and know that we have two types of sugars. We have simple sugars, which consist of sugars, and we also have complex sugars, which consist of whole grain foods such as breads. Simple carbohydrates are absorbed by the body and can cause blood levels to increase in an unhealthy amount, while complex sugars allow sustained energy and are important for a balanced diet. According to research, it shows how our body should be intaking less sugar as it is the main way to maintain good health. For example, a study from the “American Journal of Clinical Nutrition” shows how high-sugar diets and low-fiber diets lead to weight gain and metabolic disorders.</p>
+
+    <p>Zach</p>
+    <p>I believe carbohydrates shouldn't completely be limited in a healthy diet, but completely depend on what your weight goals are. Lowering your carbohydrate intake in a day will help with weight loss, but if you're trying to gain weight, carbohydrates are a great way to put on weight. However, it is recommended to limit the carbohydrates that come with unhealthy foods such as processed foods and refined sugar as it can harm you and potentially lead to blood sugar issues, which wouldn't be good in a healthy diet. The right way to go about a healthy diet is to carefully monitor your intake of both healthy and unhealthy carbs to achieve a healthy diet.</p>
+
+    <h3>How Does Sugar Affect Our Health?</h3>
+    <p>Zach</p>
+    <p>Obesity, diabetes, and cardiovascular disease (CVD) are some examples of chronic diseases that can occur from excessive sugar consumption. When you consume too much sugar, your risk for diseases like this greatly increases. High sugar consumption can also cause insulin resistance. Another risk sugar can cause is dental health issues, as sugar is harmful to your teeth and gums and makes cavities easier to get. This is huge as dental health is extremely important to monitor and keep as healthy as you can, and one of the major ways to help with this is by reducing your sugar intake. All in all, if you can limit your sugar intake, you will generally live a healthier and happier life as you won't experience such health implications and chronic diseases.</p>
+
+    <h3>Conclusion</h3>
+    <p>Ky</p>
+    <p>In conclusion, the evidence we gathered as a group shows that we’re consuming more sugar from processed foods and sugary drinks like chips and sodas, which are linked to obesity and heart disease. We also found that fructose can be more harmful than fats, highlighting why a balanced diet is so important. The Canada Food Guide emphasizes whole foods, complex carbs, plant-based proteins, and healthy fats. By following its advice and cutting down on sugar, we can stay healthier and lower our chances of getting diseases. While low-carb diets may help some people, we believe the Canada Food Guide still gives good advice for most people, especially since it’s regularly updated and promotes healthy, affordable food options.</p>
+
+    <h3>Sources</h3>
+    <ul>
+        <li><a href="https://blog.goodlifefitness.com/article/the-canada-food-guide-heres-whats-changed">GoodLife Fitness - Canada Food Guide Changes</a></li>
+        <li><a href="https://globalnews.ca/news/4885166/canada-food-guide/">Global News - Canada Food Guide Overview</a></li>
+        <li><a href="https://www.canada.ca/en/health-canada/services/canada-food-guide/about/revision-process.html">Health Canada - Canada Food Guide Revision Process</a></li>
+        <li><a href="https://globalnews.ca/news/4873598/new-canada-food-guide-2019/">Global News - New Canada Food Guide 2019</a></li>
+        <li><a href="https://ajcn.nutrition.org/action/doSearch?type=quicksearch&text1=low-fiber+diet&field1=AllField">American Journal of Clinical Nutrition - Search Results</a></li>
+        <li><a href="https://my.clevelandclinic.org/health/articles/15416-carbohydrates">Cleveland Clinic - Carbohydrates</a></li>
+        <li><a href="https://ajcn.nutrition.org/">American Journal of Clinical Nutrition</a></li>
+    </ul>
+
+    <footer>
+        <p>&copy; 2024 KIN 160 AB1 - Assignment 5: Nutrition</p>
+    </footer>
+</body>
+</html>
